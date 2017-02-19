@@ -1,0 +1,6 @@
+c:\users\amand_000\documents\visual studio 2015\Projects\AQAReverse\AQAReverse\bin\Debug\AQAReverse.exe.config
+c:\users\amand_000\documents\visual studio 2015\Projects\AQAReverse\AQAReverse\bin\Debug\AQAReverse.exe
+c:\users\amand_000\documents\visual studio 2015\Projects\AQAReverse\AQAReverse\bin\Debug\AQAReverse.pdb
+c:\users\amand_000\documents\visual studio 2015\Projects\AQAReverse\AQAReverse\obj\Debug\AQAReverse.csprojResolveAssemblyReference.cache
+c:\users\amand_000\documents\visual studio 2015\Projects\AQAReverse\AQAReverse\obj\Debug\AQAReverse.exe
+c:\users\amand_000\documents\visual studio 2015\Projects\AQAReverse\AQAReverse\obj\Debug\AQAReverse.pdb
